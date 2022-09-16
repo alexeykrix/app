@@ -1,0 +1,20 @@
+{
+  "Chips": {
+    "description": "Auto imported from components/Chips.vue"
+  },
+  "RecipeCard": {
+    "description": "Auto imported from components/RecipeCard.vue"
+  },
+  "SearchReults": {
+    "description": "Auto imported from components/SearchReults.vue"
+  },
+  "PlaceholdersEmptyPlaceholder": {
+    "description": "Auto imported from components/placeholders/EmptyPlaceholder.vue"
+  },
+  "UiNavbar": {
+    "description": "Auto imported from components/ui/Navbar.vue"
+  },
+  "UiSearch": {
+    "description": "Auto imported from components/ui/UiSearch.vue"
+  }
+}
