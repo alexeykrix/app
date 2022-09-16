@@ -1,5 +1,3 @@
-# webgen
-
 ## Build Setup
 
 ```bash
